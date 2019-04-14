@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-esm-bug",
+  "version": "1.0.0",
+  "description": "My praiseworthy Nuxt.js project",
+  "author": "vonBrax",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "stylelint": "^10.0.0",
+    "stylelint-webpack-plugin": "^0.10.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
